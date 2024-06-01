@@ -29,4 +29,6 @@ My task is to analyze the data and help Instacart target different customers wit
 - SciPy: for mathematical equations
 - Excel: for reporting
 ## Project Deliverables
-An excel 
+An excel report that includes visulizations, findings and recomendations.    
+
+**P.S. Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.**
