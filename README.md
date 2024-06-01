@@ -14,4 +14,9 @@ My task is to analyze the data and help Instacart target different customers wit
   - Are there differences in ordering habits based on a customer’s region?  
   - Is there aconnection between age and family status in terms of ordering habits?   
   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?  
-  - Whatdifferences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.  
+  - Whatdifferences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+## CareerFoundry Data Set
+[Customer Data Set (Created by CareerFoundry only for the purpose of this project.)](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+## Instacart Data Set
+[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)      
+[The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
