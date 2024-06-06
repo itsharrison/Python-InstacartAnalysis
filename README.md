@@ -12,7 +12,7 @@ My task is to analyze the data and help Instacart target different customers wit
   - What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?  
   - Are there differences in ordering habits based on a customer’s loyalty status?  
   - Are there differences in ordering habits based on a customer’s region?  
-  - Is there aconnection between age and family status in terms of ordering habits?   
+  - Is there a connection between age and family status in terms of ordering habits?   
   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?  
   - Whatdifferences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 ## CareerFoundry Data Set
